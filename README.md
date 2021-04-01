@@ -6,6 +6,10 @@ Note that you don't need this module if you don't have Google Mobile Services (f
 
 Tested on Android 9 and 10, works on any Android version up from 4.4.
 
+## Installation
+
+Download auto-reset-google-advertising-id.zip from Releases and install it via "Install from storage" in Magisk Manager.
+
 ## Credits
 
 - buch0 at <a href="https://stackoverflow.com/questions/40409471/how-to-reset-google-advertising-id-in-android-programmatically">How to reset Google Advertising ID in Android Programmatically?"
