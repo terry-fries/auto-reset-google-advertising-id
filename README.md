@@ -4,7 +4,7 @@ This Magisk module automatically resets Google Advertising ID to a new random va
 
 Note that you don't need this module if you don't have Google Mobile Services (for example, if you have an AOSP-based ROM like LineageOS and don't have Open GApps installed).
 
-Tested on Android 9 and 10, works on any Android version up from 4.4.
+Tested on Android 9/10/11, works on any Android version up from 4.4.
 
 ## Installation
 
